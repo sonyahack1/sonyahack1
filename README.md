@@ -8,7 +8,7 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 - 🛡️ Focused on web security, network exploitation, and system internals.
 - 🚀 Constantly learning and sharing my walkthroughs.
 
-- From time to time I will add new repositories to my profile and update the directory with writeups
+- From time to time I will add new repositories to my profile and update the directory with writeups.
 
 ## 📌 Featured repositories
 
