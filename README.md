@@ -1,5 +1,4 @@
 
-![logo](./screenshots/logo2.png)
 
 ## Hi there
 
