@@ -1,5 +1,5 @@
 
-![logo](./screenshots/logo_profile.png)
+![logo](./screenshots/logo2.png)
 
 ## Hi there
 
