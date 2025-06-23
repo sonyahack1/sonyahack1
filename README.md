@@ -16,7 +16,7 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 - [PortSwigger Labs](https://github.com/sonyahack1/PortSwigger)
 - [Try-Hack-Me Walkthroughts](https://github.com/sonyahack1/Try-Hack-Me)
 - [Root-Me Challenges](https://github.com/sonyahack1/Root-Me)
-- [Kids 2.0 - Tasks](https://web-kids20.forkbomb.ru/)
+- [Kids 2.0 - Tasks](https://github.com/sonyahack1/kids_2.0-Tasks)
 
 ---
 > "Stay curious, keep learning."
