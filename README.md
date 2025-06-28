@@ -30,7 +30,7 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 </div>
 
 ### 🔥 stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=sonyahack1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sonyahack1&theme=cobalt&border_radius=7.5" alt="GitHub Streak" /></a>
 
 ## 📌 Featured repositories
 
