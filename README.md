@@ -72,18 +72,18 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
     <td align="center" width="96">
         <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/docker.svg" title="docker" alt="docker" width="50" height="50" align="center" />&nbsp;
       <br>Docker
-   </td>
+   </td>    
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/burpsuite.svg" title="burpsuite" alt="burpsuite" width="50" height="50" align="center" />&nbsp;
       <br>BurpSuite
    </td>
-       <td align="center" width="96">
+   <td align="center" width="96">
         <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/logo-red-transparent-logo-only.svg" title="bloodhound" alt="bloodhound" width="50" height="50" align="center" />&nbsp;
       <br>BloodHound
    </td>
-
-   
-  </tr>
+   </tr>
   </table>
 
 ---
