@@ -49,6 +49,11 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 </div>
 
 ---
+
+### 🔥 stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyahack1&show_icons=true&theme=tokyonight)
+
 ## 📌 Featured repositories
 
 - [HackTheBox Walkthroughs](https://github.com/sonyahack1/HackTheBox)
