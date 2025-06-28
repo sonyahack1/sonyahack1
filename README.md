@@ -24,7 +24,7 @@
 
 ---
 
-I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team operations.
+𝗜'𝗺 𝘀𝗼𝗻𝘆𝗮𝗵𝗮𝗰𝗸𝟭, 𝗮 𝗰𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗶𝗻𝗴 𝗶𝗻 𝗽𝗲𝗻𝘁𝗲𝘀𝘁 𝗮𝗻𝗱 𝗥𝗲𝗱 𝗧𝗲𝗮𝗺 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀.
 
 - 🔥 I solved machines and labs on various academic platforms (**Hack The Box**, **TryHackMe**, **vulnlab**, **PortSwigger** etc.) and write reports on the work I do
 - 🛡️ Focused on web security, network exploitation, and system internals.
