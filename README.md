@@ -6,15 +6,10 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=EE3028&center=true&vCenter=true&width=435&lines=sonyahack1" alt="Typing SVG" /></a>
 </div>
 
-<div align="center" id="badges">
-  <a href="https://x.com/sonyaflower995">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <p align="center">
   <a href="https://x.com/sonyaflower995"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+ <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </p>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=sonyahack1&style=plastic&color=blueviolet" alt=""/></div>
