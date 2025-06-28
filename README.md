@@ -38,47 +38,47 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 <table align="center">
   <tr>
    <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/nmap-logo.svg" title="nmap" alt="nmap" width="50" height="50" align="center"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/nmap-logo.svg" title="nmap" alt="nmap" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
       <br>nmap
    </td>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/github.svg" title="github" alt="github" width="50" height="50" align="center"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/github.svg" title="github" alt="github" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
       <br>GitHub
    </td>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/archlinux.svg" title="archlinux" alt="archlinux" width="50" height="50" align="center"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/archlinux.svg" title="archlinux" alt="archlinux" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
       <br>Arch
    </td>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/kalilinux.svg" title="kali" alt="kali" width="50" height="50" align="center"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/kalilinux.svg" title="kali" alt="kali" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
       <br>Kali
    </td>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/metasploit.svg" title="metasploit" alt="metasploit" width="50" height="50" align="center"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/metasploit.svg" title="metasploit" alt="metasploit" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
       <br>Metasploit
    </td>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/wireshark.svg" title="wireshark" alt="wireshark" width="50" height="50" align="center"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/wireshark.svg" title="wireshark" alt="wireshark" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
       <br>WireShark
    </td>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/gnubash.svg" title="gnubash" alt="gnubash" width="50" height="50" align="center"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/gnubash.svg" title="gnubash" alt="gnubash" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
       <br>Bash
    </td>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/powershell-plain.svg" title="powershell" alt="powershell" width="50" height="50" align="center"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/powershell-plain.svg" title="powershell" alt="powershell" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
       <br>PowerShell
    </td>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/docker.svg" title="docker" alt="docker" width="50" height="50" align="center"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/docker.svg" title="docker" alt="docker" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
       <br>Docker
    </td>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/burpsuite.svg" title="burpsuite" alt="burpsuite" width="50" height="50" align="center"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/burpsuite.svg" title="burpsuite" alt="burpsuite" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
       <br>BurpSuite
    </td>
        <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/logo-red-transparent-logo-only.svg" title="bloodhound" alt="bloodhound" width="50" height="50" align="center"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/logo-red-transparent-logo-only.svg" title="bloodhound" alt="bloodhound" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
       <br>BloodHound
    </td>
 
