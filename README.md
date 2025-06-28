@@ -6,6 +6,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=EE3028&center=true&vCenter=true&width=435&lines=sonyahack1" alt="Typing SVG" /></a>
 </div>
 
+<!-- social -->
 <p align="center">
   <a href="https://x.com/sonyaflower995"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -87,6 +88,10 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
   </table>
 
 ---
+
+### profile:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyahack1&theme=radical)
 
 ### 🔥 stats:
 
