@@ -29,6 +29,10 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="arch" alt="arch" width="80" height="80" align="center"/>&nbsp;
 </div>
 
+### 🔥 stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sonyahack1&theme=cobalt&border_radius=7.5)](https://git.io/streak-stats)
+
 ## 📌 Featured repositories
 
 - [HackTheBox Walkthroughs](https://github.com/sonyahack1/HackTheBox)
