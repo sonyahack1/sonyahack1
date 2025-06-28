@@ -10,6 +10,8 @@
 <p align="center">
   <a href="https://x.com/sonyaflower995"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="https://www.linkedin.com/in/valerii-ilin-661405372/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <p align="center">
