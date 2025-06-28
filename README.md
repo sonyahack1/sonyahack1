@@ -31,6 +31,8 @@
 
 - From time to time I will add new repositories to my profile and update the directory with writeups.
 
+---
+## 📌 Featured repositories
 <div align="center">
 
 | Repository | Description |
@@ -109,15 +111,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonyahack1&show_icons=true&theme=tokyonight" />
 </p>
-
-
-## 📌 Featured repositories
-
-- [HackTheBox Walkthroughs](https://github.com/sonyahack1/HackTheBox)
-- [PortSwigger Labs](https://github.com/sonyahack1/PortSwigger)
-- [Try-Hack-Me Walkthroughts](https://github.com/sonyahack1/Try-Hack-Me)
-- [Root-Me Challenges](https://github.com/sonyahack1/Root-Me)
-- [Kids 2.0 - Tasks](https://github.com/sonyahack1/kids_2.0-Tasks)
 
 ---
 ### activity:
