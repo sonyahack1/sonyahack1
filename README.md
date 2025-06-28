@@ -20,6 +20,12 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 - 🚀 Constantly learning and sharing my walkthroughs.
 
 - From time to time I will add new repositories to my profile and update the directory with writeups.
+ 
+### 💻 Languages and Tools :
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+</div>
 
 ## 📌 Featured repositories
 
