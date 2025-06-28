@@ -35,6 +35,7 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 ### 💻 My favorite tools and technologies:
 
 <div align="center">
+ <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/nmap-logo.svg" title="nmap" alt="nmap" width="50" height="50" align="center"/>&nbsp;
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/github.svg" title="github" alt="github" width="50" height="50" align="center"/>&nbsp;
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/archlinux.svg" title="archlinux" alt="archlinux" width="50" height="50" align="center"/>&nbsp;
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/kalilinux.svg" title="kali" alt="kali" width="50" height="50" align="center"/>&nbsp;
@@ -47,8 +48,7 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/logo-red-transparent-logo-only.svg" title="bloodhound" alt="bloodhound" width="50" height="50" align="center"/>&nbsp;
 </div>
 
--
-
+---
 ## 📌 Featured repositories
 
 - [HackTheBox Walkthroughs](https://github.com/sonyahack1/HackTheBox)
