@@ -34,7 +34,7 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 ---
 ### 💻 My favorite tools and technologies:
 
-<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;"">
+<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;" >
 <table align="center">
   <tr>
    <td align="center" width="96">
