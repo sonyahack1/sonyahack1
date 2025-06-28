@@ -25,7 +25,7 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 
 <div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="arch" alt="arch" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="arch" alt="arch" width="80" height="80"/>&nbsp;
 </div>
 
 ## 📌 Featured repositories
