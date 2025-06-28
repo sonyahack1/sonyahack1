@@ -11,6 +11,8 @@
   </a>
 </div>
 
+<div><img src="https://komarev.com/ghpvc/?username=sonyahack1&style=flat-square&color=blue" alt=""/></div>
+
 I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team operations.
 
 - 🔥 I solved machines and labs on various academic platforms (**Hack The Box**, **TryHackMe**, **vulnlab**, **PortSwigger** etc.) and write reports on the work I do
