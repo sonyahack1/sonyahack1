@@ -41,8 +41,10 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/metasploit.svg" title="metasploit" alt="metasploit" width="50" height="50" align="center"/>&nbsp;
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/wireshark.svg" title="wireshark" alt="wireshark" width="50" height="50" align="center"/>&nbsp;
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/gnubash.svg" title="gnubash" alt="gnubash" width="50" height="50" align="center"/>&nbsp;
+ <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/powershell-plain.svg" title="powershell" alt="powershell" width="50" height="50" align="center"/>&nbsp;
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/docker.svg" title="docker" alt="docker" width="50" height="50" align="center"/>&nbsp;
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/burpsuite.svg" title="burpsuite" alt="burpsuite" width="50" height="50" align="center"/>&nbsp;
+ <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/logo-red-transparent-logo-only.svg" title="bloodhound" alt="bloodhound" width="50" height="50" align="center"/>&nbsp;
 </div>
 
 -
