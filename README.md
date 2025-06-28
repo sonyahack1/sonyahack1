@@ -6,7 +6,9 @@
 </div>
 
 <div align="center" id="badges">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/sonyaflower995">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team operations.
