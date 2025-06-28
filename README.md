@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=EE4949&center=true&vCenter=true&width=435&lines=Red+Team+%7C+cybersecurity+%7C+pentest;sonyahack1" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=EE4949&center=true&vCenter=true&width=435&lines=Red+Team+%7C+cybersecurity+%7C+pentest;sonyahack1" alt="Typing SVG" /></a>
 
 ## Hi there
 
