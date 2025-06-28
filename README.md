@@ -28,6 +28,11 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40" align="center"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="arch" alt="arch" width="80" height="80" align="center"/>&nbsp;
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/kalilinux.svg" title="kali" alt="kali" width="80" height="80" align="center"/>&nbsp;
+ <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/metasploit.svg" title="metasploit" alt="metasploit" width="80" height="80" align="center"/>&nbsp;
+ <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/wireshark.svg" title="wireshark" alt="wireshark" width="80" height="80" align="center"/>&nbsp;
+ <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/gnubash.svg" title="gnubash" alt="gnubash" width="80" height="80" align="center"/>&nbsp;
+ <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/docker.svg" title="docker" alt="docker" width="80" height="80" align="center"/>&nbsp;
+ <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/burpsuite.svg" title="burpsuite" alt="burpsuite" width="80" height="80" align="center"/>&nbsp;
 </div>
 
 
