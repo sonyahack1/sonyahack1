@@ -12,6 +12,11 @@
   </a>
 </div>
 
+<p align="center">
+  <a href="https://x.com/sonyaflower995"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 <div align="center"><img src="https://komarev.com/ghpvc/?username=sonyahack1&style=plastic&color=blueviolet" alt=""/></div>
 
 I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team operations.
