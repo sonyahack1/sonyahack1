@@ -89,11 +89,11 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 
 ---
 
-### profile:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyahack1&theme=radical)
-
 ### 🔥 stats:
+
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyahack1&theme=radical" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonyahack1&show_icons=true&theme=tokyonight" />
