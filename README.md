@@ -91,7 +91,7 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 ### 🔥 stats:
 
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyahack1&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=sonyahack1&show_icons=true&theme=tokyonight" />
 </p>
 
 
