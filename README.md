@@ -31,6 +31,18 @@
 
 - From time to time I will add new repositories to my profile and update the directory with writeups.
 
+<div align="center">
+
+| Repository | Description |
+|------------|-------------|
+| [Hack-The-Box Walkthroughs](https://github.com/sonyahack1/HackTheBox)     | contains walkthroughs of HackTheBox machines |
+| [PortSwigger Labs](https://github.com/sonyahack1/PortSwigger)     | contains walkthroughs of PortSwigger labs |
+| [Try-Hack-Me Walkthroughts](https://github.com/sonyahack1/Try-Hack-Me)     | contains walkthroughs of TryHackMe machines |
+| [Root-Me Challenges](https://github.com/sonyahack1/Root-Me)     | contains walkthroughs of Root-Me Challenges |
+| [Kids 2.0 - Tasks](https://github.com/sonyahack1/kids_2.0-Tasks)     | contains walkthroughs of Hack The Box machines |
+
+</div>
+
 ---
 ### 💻 My favorite tools and technologies:
 
