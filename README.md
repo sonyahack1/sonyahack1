@@ -103,7 +103,7 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 ---
 ### activity:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonyahack1&theme=react-dark)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonyahack1&theme=react-dark)
 
 
 
