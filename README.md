@@ -25,8 +25,8 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 ### 💻 My favorite tools and technologies:
 
 <div align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40" align="center"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="arch" alt="arch" width="80" height="80" align="center"/>&nbsp;
+ <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/github.svg" title="github" alt="github" width="50" height="50" align="center"/>&nbsp;
+ <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/archlinux.svg" title="archlinux" alt="archlinux" width="50" height="50" align="center"/>&nbsp;
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/kalilinux.svg" title="kali" alt="kali" width="50" height="50" align="center"/>&nbsp;
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/metasploit.svg" title="metasploit" alt="metasploit" width="50" height="50" align="center"/>&nbsp;
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/wireshark.svg" title="wireshark" alt="wireshark" width="50" height="50" align="center"/>&nbsp;
