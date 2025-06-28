@@ -34,15 +34,15 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 ---
 ### 💻 My favorite tools and technologies:
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;"">
 <table align="center">
   <tr>
    <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/nmap-logo.svg" title="nmap" alt="nmap" width="50" height="50" align="center" style="display: block; margin: 0 auto" />&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/nmap-logo.svg" title="nmap" alt="nmap" width="50" height="50" align="center" />&nbsp;
       <br>nmap
    </td>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/github.svg" title="github" alt="github" width="50" height="50" align="center" style="display: block; margin: 0 auto"/>&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/github.svg" title="github" alt="github" width="50" height="50" align="center" />&nbsp;
       <br>GitHub
    </td>
     <td align="center" width="96">
