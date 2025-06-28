@@ -21,6 +21,8 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=sonyahack1&style=plastic&color=blueviolet" alt=""/></div>
 
+---
+
 I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team operations.
 
 - 🔥 I solved machines and labs on various academic platforms (**Hack The Box**, **TryHackMe**, **vulnlab**, **PortSwigger** etc.) and write reports on the work I do
@@ -28,7 +30,8 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
 - 🚀 Constantly learning and sharing my walkthroughs.
 
 - From time to time I will add new repositories to my profile and update the directory with writeups.
- 
+
+---
 ### 💻 My favorite tools and technologies:
 
 <div align="center">
@@ -42,7 +45,7 @@ I'm sonyahack1, a cybersecurity enthusiast specializing in pentest and Red Team 
  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/burpsuite.svg" title="burpsuite" alt="burpsuite" width="50" height="50" align="center"/>&nbsp;
 </div>
 
-
+-
 
 ## 📌 Featured repositories
 
