@@ -39,7 +39,7 @@
 ## 📌 Featured repositories
 <div align="center">
 
-|  | Repository | Description |
+| Repository | Description |
 |------------|------------|-------------|
 | ![](https://github.com/sonyahack1/sonyahack1/blob/main/logo/htb_logo_resize.png) | [Hack-The-Box Walkthroughs](https://github.com/sonyahack1/HackTheBox)     | contains walkthroughs of HackTheBox machines |
 | ![](https://github.com/sonyahack1/sonyahack1/blob/main/logo/portswigger_logo.png) | [PortSwigger Labs](https://github.com/sonyahack1/PortSwigger)     | contains walkthroughs of PortSwigger labs |
