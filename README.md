@@ -14,6 +14,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://dev.to/sonyahack1"><img width="32px" alt="dev.to" title="sonyahack1 dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="https://dev.to/sonyahack1"><img width="32px" alt="telegram" title="sonyahack1 telegram" src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/tg-logo.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <p align="center">
