@@ -29,13 +29,15 @@
 
 ---
 
-𝗜'𝗺 𝘀𝗼𝗻𝘆𝗮𝗵𝗮𝗰𝗸𝟭, 𝗮 𝗰𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗶𝗻𝗴 𝗶𝗻 𝗽𝗲𝗻𝘁𝗲𝘀𝘁 𝗮𝗻𝗱 𝗥𝗲𝗱 𝗧𝗲𝗮𝗺 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀.
+<div align="center">
 
-- 🔥 I solved machines and labs on various academic platforms (**Hack The Box**, **TryHackMe**, **vulnlab**, **PortSwigger** etc.) and write reports on the work I do
-- 🛡️ Focused on web security, network exploitation, and system internals.
-- 🚀 Constantly learning and sharing my walkthroughs.
+### About Me
 
-- From time to time I will add new repositories to my profile and update the directory with writeups.
+I am a cybersecurity professional specializing in penetration testing, red team operations, and offensive security research. My work involves investigating vulnerabilities in web applications, networks, Active Directory environments, and system internals. I enjoy learning new tools, finding creative solutions, and sharing my knowledge through walkthroughs.
+
+I solve machines and labs on platforms like HackTheBox, TryHackMe, and PortSwigger, and I write reports on the work I do.
+
+</div>
 
 ---
 ## 📌 Featured repositories
