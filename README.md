@@ -39,13 +39,13 @@
 ## 📌 Featured repositories
 <div align="center">
 
-| Repository | Description |
-|------------|-------------|
-| [Hack-The-Box Walkthroughs](https://github.com/sonyahack1/HackTheBox)     | contains walkthroughs of HackTheBox machines |
-| [PortSwigger Labs](https://github.com/sonyahack1/PortSwigger)     | contains walkthroughs of PortSwigger labs |
-| [Try-Hack-Me Walkthroughts](https://github.com/sonyahack1/Try-Hack-Me)     | contains walkthroughs of TryHackMe machines |
-| [Root-Me Challenges](https://github.com/sonyahack1/Root-Me)     | contains walkthroughs of Root-Me Challenges |
-| [Kids 2.0 - Tasks](https://github.com/sonyahack1/kids_2.0-Tasks)     | contains walkthroughs of Hack The Box machines |
+| Logo | Repository | Description |
+|------------|------------|-------------|
+| ![](https://github.com/sonyahack1/sonyahack1/blob/main/logo/htb_logo_resize.png) | [Hack-The-Box Walkthroughs](https://github.com/sonyahack1/HackTheBox)     | contains walkthroughs of HackTheBox machines |
+| ![](https://github.com/sonyahack1/sonyahack1/blob/main/logo/portswigger_logo.png) | [PortSwigger Labs](https://github.com/sonyahack1/PortSwigger)     | contains walkthroughs of PortSwigger labs |
+| ![](https://github.com/sonyahack1/sonyahack1/blob/main/logo/thm_logo_resize.png) | [Try-Hack-Me Walkthroughts](https://github.com/sonyahack1/Try-Hack-Me)     | contains walkthroughs of TryHackMe machines |
+| ![]() | [Root-Me Challenges](https://github.com/sonyahack1/Root-Me)     | contains walkthroughs of Root-Me Challenges |
+| ![]() | [Kids 2.0 - Tasks](https://github.com/sonyahack1/kids_2.0-Tasks)     | contains walkthroughs of Hack The Box machines |
 
 </div>
 
