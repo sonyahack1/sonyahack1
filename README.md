@@ -62,8 +62,6 @@
   
 </details>
 
-<details>
-
 ---
 ### 💻 My favorite tools and technologies:
 
