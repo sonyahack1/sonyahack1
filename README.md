@@ -54,6 +54,17 @@
 </div>
 
 ---
+
+<details>
+  <summary><h2>test</h2></summary>
+
+  test
+  
+</details>
+
+<details>
+
+---
 ### 💻 My favorite tools and technologies:
 
 <div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;" >
