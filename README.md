@@ -40,7 +40,7 @@
 </div>
 
 ---
-## 📌 Featured repositories
+## 📌 Repositories with Writeups
 <div align="center">
 
 | | Repository | Description |
