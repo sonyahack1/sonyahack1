@@ -59,8 +59,10 @@
   <summary><h2>CTF Activity</h2></summary>
  
 <details>
-  <summary><h2>ACLabs</h2></summary>
-![ACLabs_ctf_result](./screenshots/ACLabs_ctf_result.png)
+  <summary><strong>ACLabs</strong></summary>
+
+  ![ACLabs_ctf_results](./screenshots/ACLabs_ctf_results.png)
+
 </details>
  
 </details>
