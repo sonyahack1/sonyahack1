@@ -43,6 +43,8 @@
 
 </div>
 
+[![Matrix SVG](https://github.com/sonyahack1/sonyahack1/blob/main/matrix.svg)]
+
 ---
 ## 📌 Repositories with Writeups
 
