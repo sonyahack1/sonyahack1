@@ -120,11 +120,11 @@
       <br>BloodHound
    </td>
    <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/sqlmap-icon" title="sqlmap" alt="sqlmap" width="50" height="50" align="center" />&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/sqlmap-icon.png" title="sqlmap" alt="sqlmap" width="50" height="50" align="center" />&nbsp;
       <br>sqlmap
    </td>
    <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/linux-icon" title="linux" alt="linux" width="50" height="50" align="center" />&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/linux-icon.png" title="linux" alt="linux" width="50" height="50" align="center" />&nbsp;
       <br>Linux
    </td>
    </tr>
