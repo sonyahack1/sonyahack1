@@ -124,7 +124,7 @@
       <br>sqlmap
    </td>
    <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/linux-icon.svg" title="linux" alt="linux" width="50" height="50" align="center" />&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/linux-tux-icon.svg" title="linux" alt="linux" width="50" height="50" align="center" />&nbsp;
       <br>Linux
    </td>
    </tr>
