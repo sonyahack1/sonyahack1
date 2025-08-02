@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/sonyahack1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sonyahack1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/sonyahack1?style=for-the-badge&color=55960c&labelColor=488207&logo=star&logoColor=white&label=Stars&cacheSeconds=3600"/></a>
   <a href="https://github.com/sonyahack1?tab=followers">
     <img alt="followers" titel="followers on github" src="https://img.shields.io/github/followers/sonyahack1?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=person-add&label=Follow&logoColor=white&cacheSeconds=3600)"/></a>
 </p>
