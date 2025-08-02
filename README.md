@@ -112,7 +112,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/burpsuite-security-software-svgrepo-com.svg" title="burpsuite" alt="burpsuite" width="50" height="50" align="center" />&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/burpsuite-icon.svg" title="burpsuite" alt="burpsuite" width="50" height="50" align="center" />&nbsp;
       <br>BurpSuite
    </td>
    <td align="center" width="96">
