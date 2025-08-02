@@ -86,7 +86,7 @@
       <br>Arch
    </td>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/kalilinux.svg" title="kali" alt="kali" width="50" height="50" align="center" />&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/kalilinux-svgrepo-com" title="kali" alt="kali" width="50" height="50" align="center" />&nbsp;
       <br>Kali
    </td>
     <td align="center" width="96">
@@ -112,7 +112,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/burpsuite.svg" title="burpsuite" alt="burpsuite" width="50" height="50" align="center" />&nbsp;
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/burpsuite-security-software-svgrepo-com" title="burpsuite" alt="burpsuite" width="50" height="50" align="center" />&nbsp;
       <br>BurpSuite
    </td>
    <td align="center" width="96">
