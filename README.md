@@ -53,6 +53,43 @@
 
 </div>
 
+<table align="center">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Repository</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/htb_logo_resize.png" alt="HTB" height="40"></td>
+      <td><a href="https://github.com/sonyahack1/HackTheBox">Hack-The-Box Walkthroughs</a></td>
+      <td>contains walkthroughs of HackTheBox machines</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/portswigger_logo.png" alt="PortSwigger" height="40"></td>
+      <td><a href="https://github.com/sonyahack1/PortSwigger">PortSwigger Labs</a></td>
+      <td>contains walkthroughs of PortSwigger labs</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/thm_logo_resize.png" alt="TryHackMe" height="40"></td>
+      <td><a href="https://github.com/sonyahack1/Try-Hack-Me">Try-Hack-Me Walkthroughs</a></td>
+      <td>contains walkthroughs of TryHackMe machines</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/root-me_logo_resize.png" alt="RootMe" height="40"></td>
+      <td><a href="https://github.com/sonyahack1/Root-Me">Root-Me Challenges</a></td>
+      <td>contains walkthroughs of Root-Me Challenges</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/kids20_logo_resize.png" alt="Kids 2.0" height="40"></td>
+      <td><a href="https://github.com/sonyahack1/kids_2.0-Tasks">Kids 2.0 - Tasks</a></td>
+      <td>contains walkthroughs of Hack The Box machines</td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 <details>
