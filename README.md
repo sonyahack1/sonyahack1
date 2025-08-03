@@ -57,7 +57,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/hackthebox-icon.svg" alt="HTB" height="40"></td>
       <td><a href="https://github.com/sonyahack1/HackTheBox">Hack-The-Box Walkthroughs</a></td>
       <td>contains walkthroughs of HackTheBox machines</td>
@@ -67,17 +67,17 @@
       <td><a href="https://github.com/sonyahack1/PortSwigger">PortSwigger Labs</a></td>
       <td>contains walkthroughs of PortSwigger labs</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/tryhackme-icon.svg" alt="TryHackMe" height="40"></td>
       <td><a href="https://github.com/sonyahack1/Try-Hack-Me">Try-Hack-Me Walkthroughs</a></td>
       <td>contains walkthroughs of TryHackMe machines</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/rootme-icon.svg" alt="RootMe" height="40"></td>
       <td><a href="https://github.com/sonyahack1/Root-Me">Root-Me Challenges</a></td>
       <td>contains walkthroughs of Root-Me Challenges</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/webkids-icon.svg" alt="Kids 2.0" height="40"></td>
       <td><a href="https://github.com/sonyahack1/kids_2.0-Tasks">Kids 2.0 - Tasks</a></td>
       <td>contains walkthroughs of web-kids Challenges</td>
