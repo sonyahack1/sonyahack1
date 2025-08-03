@@ -102,7 +102,7 @@
 <details>
   <summary>
     <strong>
-      <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <span style="display: inline-flex; align-items: center; gap: 15px;">
         <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/aclabs-icon.png?raw=true" alt="aclabs" height="20">
         ACLabs 02.07.2025–09.07.2025
       </span>
