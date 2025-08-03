@@ -82,18 +82,22 @@
 
 ---
 
-🏁 <details>
-  <summary><h2>CTF Activity</h2></summary>
- 
+<div align="center">
+
+🏁  
 <details>
-  <summary><strong>ACLabs</strong></summary>
+  <summary><h2>CTF Activity</h2></summary>
 
-  ![ACLabs_ctf_results](./screenshots/ACLabs_ctf_results.png)
+  <details>
+    <summary><strong>ACLabs</strong></summary>
+    <br>
+    <img src="./screenshots/ACLabs_ctf_results.png" alt="ACLabs_ctf_results" width="600">
+  </details>
 
-</details>
- 
-</details> 🏁
+</details>  
+🏁
 
+</div>
 ---
 ### 💻 My favorite tools and technologies:
 
