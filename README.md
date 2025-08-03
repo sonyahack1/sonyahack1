@@ -88,16 +88,7 @@
 
 ---
 
-<details>
-  <summary>
-    <table align="center">
-      <tr>
-        <td align="right" width="5%">🏁</td>
-        <td align="center"><h2>CTF Activity</h2></td>
-        <td align="left" width="5%">🏁</td>
-      </tr>
-    </table>
-  </summary>
+<p align="center"> 🏁 CTF Activity 🏁 </p>
 
 <details>
   <summary>
@@ -115,7 +106,6 @@
   </p>
 </details>
 
-</details>
 
 ---
 ### 💻 My favorite tools and technologies:
