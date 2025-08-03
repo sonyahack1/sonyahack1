@@ -82,11 +82,16 @@
 
 ---
 
-<div align="center">
-
-🏁  
 <details>
-  <summary><h2>CTF Activity</h2></summary>
+  <summary>
+    <table align="center">
+      <tr>
+        <td align="right" width="5%">🏁</td>
+        <td align="center"><h2>CTF Activity</h2></td>
+        <td align="left" width="5%">🏁</td>
+      </tr>
+    </table>
+  </summary>
 
   <details>
     <summary><strong>ACLabs</strong></summary>
@@ -94,10 +99,9 @@
     <img src="./screenshots/ACLabs_ctf_results.png" alt="ACLabs_ctf_results" width="600">
   </details>
 
-</details>  
-🏁
+</details>
 
-</div>
+
 ---
 ### 💻 My favorite tools and technologies:
 
