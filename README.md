@@ -1,31 +1,42 @@
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=7B7EEE&center=true&vCenter=true&width=435&lines=Red+Team+%7C+cybersecurity+%7C+pentest" alt="Typing SVG" /></a>
+  <div style="display: inline-block; vertical-align: top;">
+    <img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/htb_logo_resize.png" alt="Side Logo" width="120">
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin-left: 20px;">
+    
+    <div>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=7B7EEE&center=true&vCenter=true&width=435&lines=Red+Team+%7C+cybersecurity+%7C+pentest" alt="Typing SVG"></a>
+    </div>
+
+    <div>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=EE3028&center=true&vCenter=true&width=435&lines=%F0%9D%98%80%F0%9D%97%BC%F0%9D%97%BB%F0%9D%98%86%F0%9D%97" alt="Typing SVG 2"></a>
+    </div>
+
+    <!-- social -->
+    <p>
+      <a href="https://x.com/sonyaflower995"><img width="32px" alt="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+      &#8287;&#8287;&#8287;
+      <a href="https://www.linkedin.com/in/valerii-ilin-661405372/"><img width="32px" alt="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+      &#8287;&#8287;&#8287;
+      <a href="https://dev.to/sonyahack1"><img width="32px" alt="dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+      &#8287;&#8287;&#8287;
+      <a href="https://t.me/sonyahack1"><img width="32px" alt="telegram" src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/telegram-icon.svg"></a>
+    </p>
+
+    <p>
+      <a href="https://github.com/sonyahack1?tab=repositories&sort=stargazers">
+        <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/sonyahack1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/sonyahack1?tab=followers">
+        <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/sonyahack1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    </p>
+
+    <div>
+      <img src="https://komarev.com/ghpvc/?username=sonyahack1&style=plastic&color=blueviolet" alt="Profile Views">
+    </div>
+
+  </div>
 </div>
-
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=EE3028&center=true&vCenter=true&width=435&lines=%F0%9D%98%80%F0%9D%97%BC%F0%9D%97%BB%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B8%F0%9D%9F%AD" alt="Typing SVG" /></a>
-</div>
-
-<!-- social -->
-<p align="center">
-  <a href="https://x.com/sonyaflower995"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://www.linkedin.com/in/valerii-ilin-661405372/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://dev.to/sonyahack1"><img width="32px" alt="dev.to" title="sonyahack1 dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://t.me/sonyahack1"><img width="32px" alt="telegram" title="sonyahack1 telegram" src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/telegram-icon.svg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-<p align="center">
-  <a href="https://github.com/sonyahack1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sonyahack1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/sonyahack1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sonyahack1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=sonyahack1&style=plastic&color=blueviolet" alt=""/></div>
 
 ---
 
