@@ -57,7 +57,7 @@
       <td>contains walkthroughs of HackTheBox machines</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/portswigger_logo.png" alt="PortSwigger" height="40"></td>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/portswigger-icon.svg" alt="PortSwigger" height="40"></td>
       <td><a href="https://github.com/sonyahack1/PortSwigger">PortSwigger Labs</a></td>
       <td>contains walkthroughs of PortSwigger labs</td>
     </tr>
@@ -67,7 +67,7 @@
       <td>contains walkthroughs of TryHackMe machines</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/root-me_logo_resize.png" alt="RootMe" height="40"></td>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/rootme-icon.svg" alt="RootMe" height="40"></td>
       <td><a href="https://github.com/sonyahack1/Root-Me">Root-Me Challenges</a></td>
       <td>contains walkthroughs of Root-Me Challenges</td>
     </tr>
