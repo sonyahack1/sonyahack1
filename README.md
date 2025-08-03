@@ -62,7 +62,7 @@
       <td>contains walkthroughs of PortSwigger labs</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/tryhackme-icon.svg" alt="TryHackMe" height="40"></td>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/tryhackme-icon.svg" alt="TryHackMe" height="50"></td>
       <td><a href="https://github.com/sonyahack1/Try-Hack-Me">Try-Hack-Me Walkthroughs</a></td>
       <td>contains walkthroughs of TryHackMe machines</td>
     </tr>
