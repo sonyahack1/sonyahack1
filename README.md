@@ -88,7 +88,7 @@
 
 ---
 
-<p align="center"> 🏁 CTF Activity 🏁 </p>
+<h2 align="center"> 🏁 CTF Activity 🏁 </h2>
 
 <details>
   <summary>
