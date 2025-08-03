@@ -62,7 +62,7 @@
       <td><a href="https://github.com/sonyahack1/HackTheBox">Hack-The-Box Walkthroughs</a></td>
       <td>contains walkthroughs of HackTheBox machines</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/portswigger-icon.svg" alt="PortSwigger" height="40"></td>
       <td><a href="https://github.com/sonyahack1/PortSwigger">PortSwigger Labs</a></td>
       <td>contains walkthroughs of PortSwigger labs</td>
