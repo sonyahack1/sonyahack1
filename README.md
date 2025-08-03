@@ -90,6 +90,17 @@
 
 <details>
   <summary>
+    <table align="center">
+      <tr>
+        <td align="right" width="5%">🏁</td>
+        <td align="center"><h2>CTF Activity</h2></td>
+        <td align="left" width="5%">🏁</td>
+      </tr>
+    </table>
+  </summary>
+
+<details>
+  <summary>
     <strong>
       <span style="display: inline-flex; align-items: center; gap: 8px;">
         <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/aclabs-icon.png?raw=true" alt="aclabs" height="20">
@@ -102,6 +113,8 @@
   <p align="center">
     <img src="./screenshots/ACLabs_ctf_results.png" alt="ACLabs_ctf_results" width="600">
   </p>
+</details>
+
 </details>
 
 ---
