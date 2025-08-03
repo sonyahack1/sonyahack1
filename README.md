@@ -72,9 +72,9 @@
       <td>contains walkthroughs of Root-Me Challenges</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/kids20_logo_resize.png" alt="Kids 2.0" height="40"></td>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/webkids-icon.svg" alt="Kids 2.0" height="40"></td>
       <td><a href="https://github.com/sonyahack1/kids_2.0-Tasks">Kids 2.0 - Tasks</a></td>
-      <td>contains walkthroughs of Hack The Box machines</td>
+      <td>contains walkthroughs of web-kids Challenges</td>
     </tr>
   </tbody>
 </table>
