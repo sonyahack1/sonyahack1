@@ -82,7 +82,7 @@
 
 ---
 
-<details>
+🏁 <details>
   <summary><h2>CTF Activity</h2></summary>
  
 <details>
@@ -92,7 +92,7 @@
 
 </details>
  
-</details>
+</details> 🏁
 
 ---
 ### 💻 My favorite tools and technologies:
