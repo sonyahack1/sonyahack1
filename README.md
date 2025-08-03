@@ -98,7 +98,7 @@
   </summary>
 
   <details>
-    <summary><strong>ACLabs 02.07.2025-09.07.2025</strong></summary>
+    <summary><strong><img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/aclabs-icon.ico" alt="aclabs" height="40"> ACLabs 02.07.2025-09.07.2025</strong></summary>
     <br>
     <p align="center"><img src="./screenshots/ACLabs_ctf_results.png" alt="ACLabs_ctf_results" width="600"></p>
   </details>
