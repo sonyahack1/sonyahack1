@@ -96,7 +96,7 @@
   <details>
     <summary><strong>ACLabs 02.07.2025-09.07.2025</strong></summary>
     <br>
-    <img src="./screenshots/ACLabs_ctf_results.png" alt="ACLabs_ctf_results" width="600">
+    <p align="center"><img src="./screenshots/ACLabs_ctf_results.png" alt="ACLabs_ctf_results" width="600"></p>
   </details>
 
 </details>
