@@ -1,26 +1,25 @@
 
 <div align="center">
 
-  <!-- ОБОЛОЧКА в виде псевдо-флекса -->
-  <span style="display: inline-block; vertical-align: top;">
+<span style="display: inline-block; vertical-align: top;">
     <img src="https://raw.githubusercontent.com/sonyahack1/sonyahack1/main/screenshots/Kalilinux.svg" alt="Kali Logo" width="120">
-  </span>
+</span>
 
-  <span style="display: inline-block; text-align: center; margin-left: 20px;">
+<span style="display: inline-block; text-align: center; margin-left: 20px;">
 
-    <div align="center">
-      <a href="https://git.io/typing-svg">
+<div align="center">
+  <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=7B7EEE&center=true&vCenter=true&width=435&lines=Red+Team+%7C+cybersecurity+%7C+pentest" alt="Typing SVG">
-      </a>
-    </div>
+  </a>
+</div>
 
-    <div align="center">
+<div align="center">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=EE3028&center=true&vCenter=true&width=435&lines=%F0%9D%98%80%F0%9D%97%BC%F0%9D%97%BB%F0%9D%98%86%F0%9D%97" alt="Typing SVG 2">
       </a>
-    </div>
+</div>
 
-    <p align="center">
+<p align="center">
       <a href="https://x.com/sonyaflower995"><img width="32px" src="https://i.imgur.com/AixJgnm.png" alt="Twitter" /></a>
       &#8287;&#8287;&#8287;
       <a href="https://www.linkedin.com/in/valerii-ilin-661405372/"><img width="32px" src="https://i.imgur.com/yRpa1dQ.png" alt="LinkedIn" /></a>
@@ -28,20 +27,20 @@
       <a href="https://dev.to/sonyahack1"><img width="32px" src="https://i.imgur.com/mVm29vK.png" alt="dev.to"></a>
       &#8287;&#8287;&#8287;
       <a href="https://t.me/sonyahack1"><img width="32px" src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/telegram-icon.svg" alt="Telegram"></a>
-    </p>
+</p>
 
-    <p align="center">
+<p align="center">
       <a href="https://github.com/sonyahack1?tab=repositories&sort=stargazers">
         <img src="https://custom-icon-badges.demolab.com/github/stars/sonyahack1?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="total stars"></a>
       <a href="https://github.com/sonyahack1?tab=followers">
         <img src="https://custom-icon-badges.demolab.com/github/followers/sonyahack1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="followers"></a>
-    </p>
+</p>
 
-    <div align="center">
+<div align="center">
       <img src="https://komarev.com/ghpvc/?username=sonyahack1&style=plastic&color=blueviolet" alt="views">
-    </div>
+ </div>
 
-  </span>
+</span>
 
 </div>
 
