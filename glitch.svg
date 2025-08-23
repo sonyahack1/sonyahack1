@@ -52,6 +52,16 @@
       <rect width="4" height="1" y="2" fill="#000"/>
     </pattern>
 
+    <!-- Белый шум -->
+    <filter id="noiseOverlay">
+      <feTurbulence type="fractalNoise" baseFrequency="1.2" numOctaves="1" seed="4" result="n"/>
+      <feColorMatrix type="saturate" values="0" result="g"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0 0.18 0 0.35 0 0.12 0"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
   <!-- Дрожание кадра -->
   <g>
     <animateTransform attributeName="transform" type="translate"
