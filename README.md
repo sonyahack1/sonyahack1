@@ -48,7 +48,7 @@
 ---
 ## 📌 Repositories with Writeups
 
-<table>
+<table align="center">
    <colgroup>
     <col width="80">
     <col width="300">
