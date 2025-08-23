@@ -14,8 +14,6 @@
 <p align="center">
   <a href="https://x.com/sonyaflower995"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://www.linkedin.com/in/valerii-ilin-661405372/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://dev.to/sonyahack1"><img width="32px" alt="dev.to" title="sonyahack1 dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://t.me/sonyahack1"><img width="32px" alt="telegram" title="sonyahack1 telegram" src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/telegram-icon.svg"></a>
