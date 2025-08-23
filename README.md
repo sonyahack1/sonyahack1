@@ -180,7 +180,7 @@
   </table>
 
 ---
-<h2 align="center"> Git Activity </h2>
+<h2 align="center"> GitHub Activity & Stats </h2>
 
 <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyahack1&theme=radical" />
