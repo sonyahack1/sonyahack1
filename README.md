@@ -93,7 +93,7 @@
 
 ---
 
-<h2 align="center"> 🏁 CTF Activity 🏁 </h2>
+<h2 align="center"> 🏁 CTF Activity </h2>
 
 <details>
   <summary>
@@ -180,7 +180,7 @@
   </table>
 
 ---
-<h2 align="center"> GitHub Activity & Stats </h2>
+<h2 align="center"> 📈 GitHub Activity & Stats </h2>
 
 <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyahack1&theme=radical" />
