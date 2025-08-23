@@ -47,19 +47,14 @@
 <h2 align="center">📌 Repositories with Writeups</h2>
 
 <table width="100%" align="center">
-   <colgroup>
-    <col width="80">
-    <col width="300">
-    <col width="600">
-  </colgroup>
-  <thead>
+  <thead width="100%">
     <tr>
       <th></th>
       <th>Repository</th>
       <th>Description</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody width="100%">
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/hackthebox-icon.svg" alt="HTB" height="40"></td>
       <td><a href="https://github.com/sonyahack1/HackTheBox">Hack-The-Box Walkthroughs</a></td>
