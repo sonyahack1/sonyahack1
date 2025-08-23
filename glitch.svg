@@ -62,11 +62,7 @@
     </filter>
   </defs>
 
-  <!-- Дрожание кадра -->
-  <g>
-    <animateTransform attributeName="transform" type="translate"
-                      values="0 0; 3 0; -3 0; 2 0; -2 0; 0 0"
-                      dur="0.4s" repeatCount="indefinite"/>
+
 
     <!-- Базовый слой -->
     <g filter="url(#distort)">
