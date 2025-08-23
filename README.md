@@ -63,7 +63,7 @@
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/hackthebox-icon.svg" alt="HTB" height="40"></td>
       <td><a href="https://github.com/sonyahack1/HackTheBox">Hack-The-Box Walkthroughs</a></td>
-      <td>contains walkthroughs of HackTheBox machines</td>
+      <td>contains walkthroughs of Hack The Box machines</td>
     </tr>
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/portswigger-icon.svg" alt="PortSwigger" height="40"></td>
@@ -73,7 +73,7 @@
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/tryhackme-icon.svg" alt="TryHackMe" height="40"></td>
       <td><a href="https://github.com/sonyahack1/Try-Hack-Me">Try-Hack-Me Walkthroughs</a></td>
-      <td>contains walkthroughs of TryHackMe machines</td>
+      <td>contains walkthroughs of Try Hack Me machines</td>
     </tr>
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/rootme-icon.svg" alt="RootMe" height="40"></td>
