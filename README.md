@@ -180,13 +180,12 @@
   </table>
 
 ---
-<h2 align="center"> 📈 GitHub Activity & Stats </h2>
+<h2 align="center">📈 GitHub Activity & Stats</h2>
 
+| GitHub Profile Details | GitHub Stats |
+|------------------------|--------------|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyahack1&theme=radical" height="200"> | <img src="https://github-readme-stats.vercel.app/api?username=sonyahack1&show_icons=true&theme=tokyonight" height="200"> |
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyahack1&theme=radical" height="200" style="display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sonyahack1&show_icons=true&theme=tokyonight" height="200" style="display: inline-block;" />
-</div>
 
 
 
