@@ -48,7 +48,7 @@
 ---
 ## 📌 Repositories with Writeups
 
-<table align="center">
+<table align="center" style="width:100%;">
   <thead>
     <tr>
       <th></th>
