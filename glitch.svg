@@ -14,7 +14,7 @@
       .ghost { fill:#FFFFFF; opacity:.3 }
     </style>
 
-    <symbol id="txt"><text x="50%" y="50%">sonyahack1</text></symbol>
+    <symbol id="txt"><text x="30%" y="30%">sonyahack1</text></symbol>
 
     <!-- Сильный шум + искажение -->
     <filter id="distort">
