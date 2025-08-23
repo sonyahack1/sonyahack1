@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=EE3028&center=true&vCenter=true&width=435&lines=sonyahack1" alt="Typing SVG" /></a>
+  <img src="https://raw.githubusercontent.com/<USER>/<REPO>/main/assets/tv-glitch-strong.svg" alt="sonyahack1 glitch" />
 </div>
 
 <!-- social -->
