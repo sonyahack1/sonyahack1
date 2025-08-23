@@ -113,7 +113,7 @@
 
 
 ---
-### 💻 My favorite tools and technologies:
+<h2 align="center">💻 My favorite tools and technologies</h2>
 
 <div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;" >
 <table align="center">
