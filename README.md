@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/<USER>/<REPO>/main/assets/tv-glitch-strong.svg" alt="sonyahack1 glitch" />
+  <img src="https://github.com/sonyahack1/sonyahack1/blob/main/glitch.svg" alt="sonyahack1 glitch" />
 </div>
 
 <!-- social -->
