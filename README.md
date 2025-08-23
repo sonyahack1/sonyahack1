@@ -46,7 +46,7 @@
 ![Matrix SVG](https://github.com/sonyahack1/sonyahack1/blob/main/matrix.svg)
 
 ---
-## 📌 Repositories with Writeups
+<h2 align="center">📌 Repositories with Writeups</h2>
 
 <table align="center">
    <colgroup>
