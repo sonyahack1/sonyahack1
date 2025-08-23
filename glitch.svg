@@ -62,12 +62,6 @@
     </filter>
   </defs>
 
-  <!-- Дрожание кадра -->
-  <g>
-    <animateTransform attributeName="transform" type="translate"
-                      values="0 0; 3 0; -3 0; 2 0; -2 0; 0 0"
-                      dur="0.4s" repeatCount="indefinite"/>
-
     <!-- Базовый слой -->
     <g filter="url(#distort)">
       <use href="#txt" class="base"/>
@@ -129,5 +123,4 @@
                keyTimes="0;0.16;0.18;0.22;0.55;0.58;0.6;1"
                dur="3s" repeatCount="indefinite"/>
     </rect>
-  </g>
 </svg>
