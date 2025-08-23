@@ -46,7 +46,7 @@
 ---
 <h2 align="center">📌 Repositories with Writeups</h2>
 
-<table align="center">
+<table width="100%" align="center">
    <colgroup>
     <col width="80">
     <col width="300">
