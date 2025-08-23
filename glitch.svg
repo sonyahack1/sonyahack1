@@ -1,3 +1,4 @@
+<!-- tv-glitch-strong.svg -->
 <svg width="620" height="110" viewBox="0 0 620 110" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
@@ -28,10 +29,15 @@
       </feDisplacementMap>
     </filter>
 
-    <!-- Слайсы для RGB разрывов (только верх и низ) -->
+    <!-- Слайсы для RGB разрывов -->
     <clipPath id="sliceTop">
       <rect x="0" y="10" width="620" height="24">
         <animate attributeName="y" values="8;16;12" dur="0.8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="sliceMid">
+      <rect x="0" y="46" width="620" height="18">
+        <animate attributeName="y" values="44;54;46" dur="0.7s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <clipPath id="sliceBot">
@@ -39,14 +45,35 @@
         <animate attributeName="y" values="70;80;72" dur="0.9s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
+
+    <!-- Сканлайны -->
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" y="0" fill="#000"/>
+      <rect width="4" height="1" y="2" fill="#000"/>
+    </pattern>
+
+    <!-- Белый шум -->
+    <filter id="noiseOverlay">
+      <feTurbulence type="fractalNoise" baseFrequency="1.2" numOctaves="1" seed="4" result="n"/>
+      <feColorMatrix type="saturate" values="0" result="g"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0 0.18 0 0.35 0 0.12 0"/>
+      </feComponentTransfer>
+    </filter>
   </defs>
 
-    <!-- Базовый красный слой -->
+  <!-- Дрожание кадра -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+                      values="0 0; 3 0; -3 0; 2 0; -2 0; 0 0"
+                      dur="0.4s" repeatCount="indefinite"/>
+
+    <!-- Базовый слой -->
     <g filter="url(#distort)">
       <use href="#txt" class="base"/>
     </g>
 
-    <!-- Лёгкие белые призраки -->
+    <!-- Призрачные белые отблески -->
     <use href="#txt" class="ghost">
       <animateTransform attributeName="transform" type="translate"
                         values="0 0; 2 0; -2 0; 0 0"
@@ -58,7 +85,7 @@
                         dur="0.5s" repeatCount="indefinite"/>
     </use>
 
-    <!-- RGB смещения (верх и низ) -->
+    <!-- RGB смещения по «слайсам» -->
     <g clip-path="url(#sliceTop)">
       <use href="#txt" class="cyan">
         <animateTransform attributeName="transform" type="translate"
@@ -69,7 +96,16 @@
                           values="6 0; -6 0; 4 0; 0 0" dur="0.65s" repeatCount="indefinite"/>
       </use>
     </g>
-
+    <g clip-path="url(#sliceMid)">
+      <use href="#txt" class="cyan">
+        <animateTransform attributeName="transform" type="translate"
+                          values="4 0; -7 0; 5 0; 0 0" dur="0.5s" repeatCount="indefinite"/>
+      </use>
+      <use href="#txt" class="blue">
+        <animateTransform attributeName="transform" type="translate"
+                          values="-4 0; 7 0; -5 0; 0 0" dur="0.55s" repeatCount="indefinite"/>
+      </use>
+    </g>
     <g clip-path="url(#sliceBot)">
       <use href="#txt" class="cyan">
         <animateTransform attributeName="transform" type="translate"
@@ -80,5 +116,18 @@
                           values="7 0; -7 0; 5 0; 0 0" dur="0.75s" repeatCount="indefinite"/>
       </use>
     </g>
+
+    <!-- Сканлайны -->
+    <rect x="0" y="0" width="620" height="110" fill="url(#scan)" opacity=".25">
+      <animate attributeName="opacity" values=".15;.3;.2;.25" dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Яркие шумовые выбросы -->
+    <rect x="0" y="0" width="620" height="110" filter="url(#noiseOverlay)" opacity="0">
+      <animate attributeName="opacity"
+               values="0;0;0.6;0;0;0.4;0;0"
+               keyTimes="0;0.16;0.18;0.22;0.55;0.58;0.6;1"
+               dur="3s" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>
