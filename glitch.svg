@@ -1,4 +1,3 @@
-<!-- tv-glitch-strong.svg -->
 <svg width="620" height="110" viewBox="0 0 620 110" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
@@ -16,7 +15,6 @@
 
     <symbol id="txt"><text x="50%" y="50%">sonyahack1</text></symbol>
 
-    <!-- Сильный шум + искажение -->
     <filter id="distort">
       <feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="3" seed="11" result="n1">
         <animate attributeName="baseFrequency" values="0.018;0.05;0.025;0.018" dur="3s" repeatCount="indefinite"/>
@@ -29,7 +27,6 @@
       </feDisplacementMap>
     </filter>
 
-    <!-- Слайсы для RGB разрывов -->
     <clipPath id="sliceTop">
       <rect x="0" y="10" width="620" height="24">
         <animate attributeName="y" values="8;16;12" dur="0.8s" repeatCount="indefinite"/>
@@ -46,13 +43,11 @@
       </rect>
     </clipPath>
 
-    <!-- Сканлайны -->
     <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
       <rect width="4" height="1" y="0" fill="#000"/>
       <rect width="4" height="1" y="2" fill="#000"/>
     </pattern>
 
-    <!-- Белый шум -->
     <filter id="noiseOverlay">
       <feTurbulence type="fractalNoise" baseFrequency="1.2" numOctaves="1" seed="4" result="n"/>
       <feColorMatrix type="saturate" values="0" result="g"/>
@@ -62,12 +57,10 @@
     </filter>
   </defs>
 
-    <!-- Базовый слой -->
     <g filter="url(#distort)">
       <use href="#txt" class="base"/>
     </g>
 
-    <!-- Призрачные белые отблески -->
     <use href="#txt" class="ghost">
       <animateTransform attributeName="transform" type="translate"
                         values="0 0; 2 0; -2 0; 0 0"
@@ -79,7 +72,6 @@
                         dur="0.5s" repeatCount="indefinite"/>
     </use>
 
-    <!-- RGB смещения по «слайсам» -->
     <g clip-path="url(#sliceTop)">
       <use href="#txt" class="cyan">
         <animateTransform attributeName="transform" type="translate"
@@ -111,12 +103,10 @@
       </use>
     </g>
 
-    <!-- Сканлайны -->
     <rect x="0" y="0" width="620" height="110" fill="url(#scan)" opacity=".25">
       <animate attributeName="opacity" values=".15;.3;.2;.25" dur="1s" repeatCount="indefinite"/>
     </rect>
 
-    <!-- Яркие шумовые выбросы -->
     <rect x="0" y="0" width="620" height="110" filter="url(#noiseOverlay)" opacity="0">
       <animate attributeName="opacity"
                values="0;0;0.6;0;0;0.4;0;0"
