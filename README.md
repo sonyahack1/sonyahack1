@@ -81,7 +81,7 @@
       <td>contains walkthroughs of web-kids Challenges</td>
     </tr>
     <tr align="center">
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/vulnhub_logo.svg" alt="Kids 2.0" height="40"></td>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/escmypriv1_icon.webp" alt="vulnhub_icon" height="40"></td>
       <td><a href="https://github.com/sonyahack1/VulnHub">VulnHub Walkthroughs</a></td>
       <td>contains walkthroughs of VulnHub Labs</td>
     </tr>
