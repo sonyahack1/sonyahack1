@@ -91,7 +91,7 @@
 
 ---
 
-<h2 align="center"> 🏁 CTF Activity </h2>
+<h2 align="center"> ⚔️   CTF Activity ⚔️ </h2>
 
 <details>
   <summary>
