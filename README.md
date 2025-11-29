@@ -61,14 +61,19 @@
       <td>contains walkthroughs of Hack The Box machines</td>
     </tr>
     <tr align="center">
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/portswigger-icon.svg" alt="PortSwigger" height="40"></td>
-      <td><a href="https://github.com/sonyahack1/PortSwigger">PortSwigger Labs</a></td>
-      <td>contains walkthroughs of PortSwigger labs</td>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/escmypriv1_icon.webp" alt="vulnhub_icon" height="40"></td>
+      <td><a href="https://github.com/sonyahack1/VulnHub">VulnHub Walkthroughs</a></td>
+      <td>contains walkthroughs of VulnHub Labs</td>
     </tr>
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/tryhackme-icon.svg" alt="TryHackMe" height="40"></td>
       <td><a href="https://github.com/sonyahack1/Try-Hack-Me">Try-Hack-Me Walkthroughs</a></td>
       <td>contains walkthroughs of Try Hack Me machines</td>
+    </tr>
+    <tr align="center">
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/portswigger-icon.svg" alt="PortSwigger" height="40"></td>
+      <td><a href="https://github.com/sonyahack1/PortSwigger">PortSwigger Labs</a></td>
+      <td>contains walkthroughs of PortSwigger labs</td>
     </tr>
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/rootme-icon.svg" alt="RootMe" height="40"></td>
@@ -79,11 +84,6 @@
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/webkids-icon.svg" alt="Kids 2.0" height="40"></td>
       <td><a href="https://github.com/sonyahack1/kids_2.0-Tasks">Kids 2.0 - Tasks</a></td>
       <td>contains walkthroughs of web-kids Challenges</td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/escmypriv1_icon.webp" alt="vulnhub_icon" height="40"></td>
-      <td><a href="https://github.com/sonyahack1/VulnHub">VulnHub Walkthroughs</a></td>
-      <td>contains walkthroughs of VulnHub Labs</td>
     </tr>
   </tbody>
 </table>
@@ -196,9 +196,7 @@
 ---
 <h2 align="center">📈 GitHub Activity & Stats</h2>
 
-|  Profile Details |  Stats |
-|------------------------|--------------|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyahack1&theme=radical&cacheSeconds=3600" height="200"> | <img src="https://github-readme-stats.vercel.app/api?username=sonyahack1&show_icons=true&theme=tokyonight&cacheSeconds=3600" height="200"> |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonyahack1&theme=radical&cacheSeconds=3600" height="200">
 
 
 
