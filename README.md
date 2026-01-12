@@ -125,6 +125,21 @@
   </p>
 </details>
 
+<details>
+  <summary>
+    <strong>
+      <span style="display: flex; align-items: center; gap: 15px;">
+        <img src="https://github.com/sonyahack1/sonyahack1/blob/main/screenshots/aclabs-icon.png?raw=true" alt="aclabs" height="20">
+        ACLabs 12.12.2025–24.12.2025
+      </span>
+    </strong>
+  </summary>
+
+  <br>
+  <p align="center">
+    <img src="./screenshots/acl_ctf_s4.png" alt="acl_ctf_s4" width="600">
+  </p>
+</details>
 
 ---
 <h2 align="center">💻 My favorite tools and technologies</h2>
