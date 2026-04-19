@@ -58,7 +58,7 @@
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/infosec_icon.svg" alt="InfoSec" height="40"></td>
       <td><a href="https://github.com/sonyahack1/blue-team-labs">Blue Team Labs</a></td>
-      <td></td>
+      <td>contains walkthroughs of Blue Team labs</td>
     </tr>
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/hackthebox-icon.svg" alt="HTB" height="40"></td>
