@@ -35,7 +35,7 @@
 
 ### About Me
 
-- Cybersecurity specialist with a primary focus on `Penetration Testing` and `Offensive Security`, complemented by growing expertise in `Blue Team` practices and `Security Analysis`. Experienced in identifying and exploiting vulnerabilities across `Web Applications`, `Networks`, `Active Directory environments` and `Linux System`, with strong hands-on experience working in `Linux-based Environments`, while also developing skills in `OSINT`, `Digital Forensics`, `Memory Analysis`, `Reverse Engineering` and more
+- Cybersecurity specialist with a primary focus on `Penetration Testing` and `Offensive Security`, complemented by growing expertise in `Blue Team` practices and `Security Analysis`. Experienced in identifying and exploiting vulnerabilities across `Web Applications`, `Networks`, `Active Directory environments`, and `Linux systems`, with strong hands-on experience in `Linux-based environments`. Continuously developing skills in `OSINT`, `Digital Forensics`, `Memory Analysis`, and `Reverse Engineering`.
 
 - I approach security from both `Attacker` and `Defender` perspectives, documenting my work through practical labs and detailed writeups.
 
