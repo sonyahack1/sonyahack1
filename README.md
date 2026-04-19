@@ -35,6 +35,8 @@
 
 ### About Me
 
+123
+
 - I am a cybersecurity professional specializing in `Penetration Testing`, `Red Team` operations, and `Offensive Security` research. My work involves 𝗶𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗶𝗻𝗴 𝘃𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀 𝗶𝗻 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀, 𝗻𝗲𝘁𝘄𝗼𝗿𝗸𝘀, 𝗔𝗰𝘁𝗶𝘃𝗲 𝗗𝗶𝗿𝗲𝗰𝘁𝗼𝗿𝘆 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀, 𝗮𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺 𝗶𝗻𝘁𝗲𝗿𝗻𝗮𝗹𝘀. I enjoy learning new tools, finding creative solutions, and sharing my knowledge through `walkthroughs`.
 
 - I solve Machines and Labs on various academic platforms - `HackTheBox`, `TryHackMe`, `PortSwigger`, `VulnHub` etc. and I write reports on the work I do.
