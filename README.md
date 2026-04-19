@@ -56,6 +56,11 @@
   </thead>
   <tbody width="100%">
     <tr align="center">
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/hackthebox-icon.svg" alt="InfoSec" height="40"></td>
+      <td><a href="https://github.com/sonyahack1/blue-team-labs">Blue Team Labs</a></td>
+      <td></td>
+    </tr>
+    <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/hackthebox-icon.svg" alt="HTB" height="40"></td>
       <td><a href="https://github.com/sonyahack1/HackTheBox">Hack-The-Box Walkthroughs</a></td>
       <td>contains walkthroughs of Hack The Box machines</td>
