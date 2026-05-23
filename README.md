@@ -76,8 +76,8 @@
       <td>contains walkthroughs of Try Hack Me machines</td>
     </tr>
     <tr align="center">
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/portswigger-icon.svg" alt="PortSwigger" height="40"></td>
-      <td><a href="https://github.com/sonyahack1/PortSwigger">Web Hacking Labs</a></td>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/web-hacking-icon.svg" alt="web-hacking" height="40"></td>
+      <td><a href="https://github.com/sonyahack1/web-hacking-labs">Web Hacking Labs</a></td>
       <td>Hands-on web hacking labs and writeups from various platforms</td>
     </tr>
     <tr align="center">
