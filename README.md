@@ -77,8 +77,8 @@
     </tr>
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/portswigger-icon.svg" alt="PortSwigger" height="40"></td>
-      <td><a href="https://github.com/sonyahack1/PortSwigger">PortSwigger Labs</a></td>
-      <td>contains walkthroughs of PortSwigger labs</td>
+      <td><a href="https://github.com/sonyahack1/PortSwigger">Web Hacking Labs</a></td>
+      <td>Hands-on web hacking labs and writeups from various platforms</td>
     </tr>
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/rootme-icon.svg" alt="RootMe" height="40"></td>
