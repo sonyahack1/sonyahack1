@@ -41,7 +41,38 @@
 
 </div>
 
-![Matrix SVG](https://github.com/sonyahack1/sonyahack1/blob/main/matrix.svg)
+<h2 align="center">📝 Latest Writeups</h2>
+
+<table width="100%" align="center">
+  <thead>
+    <tr>
+      <th width="50%">🔵 Blue Team Labs</th>
+      <th width="50%">🔴 Red Team Labs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/sonyahack1/blue-team-labs/blob/main/SOC/HackTheBox-Holmes_2025_2_The_Watchmans_Residue/report-31.08.2026.md">
+          <strong>Hack The Box — Holmes 2025 2: The Watchman's Residue</strong>
+        </a>
+        <br>
+        <sub>SOC / DFIR</sub>
+        <br>
+        <sub>Published: 10.09.2026</sub>
+      </td>
+      <td align="center">
+        <a href="#">
+          <strong>123</strong>
+        </a>
+        <br>
+        <sub>123</sub>
+        <br>
+        <sub>Published: 123</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 <h2 align="center">📌 Repositories with Writeups</h2>
