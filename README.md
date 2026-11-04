@@ -101,11 +101,6 @@
       <td><a href="https://github.com/sonyahack1/web-hacking-labs">Web Hacking Labs</a></td>
       <td>Hands-on web hacking labs and writeups from various platforms</td>
     </tr>
-    <tr align="center">
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/webkids-icon.svg" alt="Kids 2.0" height="40"></td>
-      <td><a href="https://github.com/sonyahack1/kids_2.0-Tasks">Kids 2.0 - Tasks</a></td>
-      <td>contains walkthroughs of web-kids Challenges</td>
-    </tr>
   </tbody>
 </table>
 
