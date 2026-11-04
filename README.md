@@ -92,9 +92,9 @@
       <td>contains walkthroughs of Blue Team labs</td>
     </tr>
     <tr align="center">
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/hackthebox-icon.svg" alt="HTB" height="40"></td>
-      <td><a href="https://github.com/sonyahack1/HackTheBox">Hack-The-Box Walkthroughs</a></td>
-      <td>contains walkthroughs of Hack The Box machines</td>
+      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/red-team-icon.svg" alt="RED" height="40"></td>
+      <td><a href="https://github.com/sonyahack1/red-team-labs">Red Team Labs</a></td>
+      <td>contains walkthroughs of Red Team Labs</td>
     </tr>
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/escmypriv1_icon.webp" alt="vulnhub_icon" height="40"></td>
