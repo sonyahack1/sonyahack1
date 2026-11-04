@@ -62,7 +62,7 @@
         <sub>Published: 10.09.2026</sub>
       </td>
       <td align="center">
-        <a href="https://github.com/sonyahack1/Try-Hack-Me/blob/main/Billing/Billing_10.05.2026.md">
+        <a href="https://github.com/sonyahack1/red-team-labs/blob/main/Try-Hack-Me/Billing/Billing_10.05.2026.md">
           <strong>TryHackMe - Billing</strong>
         </a>
         <br>
