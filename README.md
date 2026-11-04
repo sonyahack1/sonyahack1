@@ -97,24 +97,9 @@
       <td>contains walkthroughs of Red Team Labs</td>
     </tr>
     <tr align="center">
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/escmypriv1_icon.webp" alt="vulnhub_icon" height="40"></td>
-      <td><a href="https://github.com/sonyahack1/VulnHub">VulnHub Walkthroughs</a></td>
-      <td>contains walkthroughs of VulnHub Labs</td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/tryhackme-icon.svg" alt="TryHackMe" height="40"></td>
-      <td><a href="https://github.com/sonyahack1/Try-Hack-Me">Try-Hack-Me Walkthroughs</a></td>
-      <td>contains walkthroughs of Try Hack Me machines</td>
-    </tr>
-    <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/web-hacking-icon.svg" alt="web-hacking" height="40"></td>
       <td><a href="https://github.com/sonyahack1/web-hacking-labs">Web Hacking Labs</a></td>
       <td>Hands-on web hacking labs and writeups from various platforms</td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/rootme-icon.svg" alt="RootMe" height="40"></td>
-      <td><a href="https://github.com/sonyahack1/Root-Me">Root-Me Challenges</a></td>
-      <td>contains walkthroughs of Root-Me Challenges</td>
     </tr>
     <tr align="center">
       <td><img src="https://github.com/sonyahack1/sonyahack1/blob/main/logo/webkids-icon.svg" alt="Kids 2.0" height="40"></td>
